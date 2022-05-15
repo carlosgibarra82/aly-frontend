@@ -3,7 +3,13 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
-  production: false
+  production: false,
+  UserPoolId: 'us-east-1_1VA0c28nP',
+  ClientId: '5g876p10qm1i0fcac4e3jueinb',
+  springURL: 'http://localhost:8080/',
+  ACCESS_TOKEN: 'accessToken',
+  AUTHORIZATION: 'Authorization',
+  BEARER: 'Bearer '
 };
 
 /*
